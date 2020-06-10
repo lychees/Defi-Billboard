@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "pretty": true,
+    "target": "es5",
+    "lib": ["es2017", "dom"],
+    "outDir": "lib",
+    "rootDir": ".",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "typeRoots": ["node_modules/@0x/typescript-typings/types", "node_modules/@types"],
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true
+  },
+  "include": ["./build/networks/*.json","./src/**/*"]
+}

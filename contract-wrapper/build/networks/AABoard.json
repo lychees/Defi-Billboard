@@ -1,0 +1,22 @@
+{
+  "networks": {
+    "1": {
+      "events": {},
+      "links": {},
+      "address": "0x36e25FC7ce47366160E9A71E18faC8eCb54f24e7",
+      "transactionHash": "0x74821a18d701a5d47b36f94a7a03b586edde6646e1ad71f81c8715d3fd10a949"
+    },
+    "3": {
+      "events": {},
+      "links": {},
+      "address": "0x8983a708797D0111D4005a96E06d00dfb34E0D17",
+      "transactionHash": "0xb667bbaeb1fc506c031cd78bb5ae7b9114b4cce8628778316dbbce7c45af3563"
+    },
+    "42": {
+      "events": {},
+      "links": {},
+      "address": "0x705a4eeDEa77fB815DAF2922bD25c37b616f1399",
+      "transactionHash": "0xe01b816fd637a5a230b1cab35e08647b4a19344450140b267464a74d2f0eb85d"
+    }
+  }
+}
