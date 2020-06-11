@@ -16,7 +16,7 @@ export default new VueRouter({
    {
      path: "/",
      name: "home",
-     component: Home
+     component: Billboard
    },
     {
       path: "/login",
