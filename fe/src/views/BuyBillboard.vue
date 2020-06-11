@@ -34,7 +34,7 @@
       <h5 class="white-text font-weight-regular">
         We will conduct a continuous auction for 10 display slots on "a DeFi billboard" with a Harberger Tax mechanism.
         The 5% tax goes to the event's ENS address
-        <strong>defiwtf.eth</strong>. The proceeds will go into funding the event and funding research that comes out of the event. Auction starts Oct 7.
+        <strong>defiwtf.eth</strong>. The proceeds will go into funding the event and funding research that comes out of the event.
       </h5>
     </div>
     <div class="container my-4">
