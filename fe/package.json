@@ -12,7 +12,7 @@
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.2",
     "core-js": "^2.6.5",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "solidity-sha3": "^0.4.1",
     "truffle-contract": "^4.0.31",
     "truffle-hdwallet-provider": "^1.0.17",
